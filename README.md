@@ -1,4 +1,3 @@
-# J2SE_Project
 ## Electricity Bill calculator demo
 
 This is designed to demonstrate the Eb-bill application used to generate electricity bill and store customer info in the database. The database needs to be created before running this.
